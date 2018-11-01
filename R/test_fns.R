@@ -30,7 +30,7 @@ test_timestwo <- function(x) {
 #' @return A stringy greeting
 #' @export
 test_yesIhave <- function() {
-  y <- "Yep I got it from tag 1.1"
+  y <- "Yep I got it from annotated tag 1.2"
   y
 }
 
